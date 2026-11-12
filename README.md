@@ -3,7 +3,9 @@ Gpx to Tcx file converter
 
 I want to introduce my favorite site gpx.studio.
 I want to convert the output gpx file from gpx.stucio 
-to tcx file which the most computers deals with.
+to tcx file with converting the rich waypoints edited 
+by gpx.studio.
+
 Usage:
 1. Run yGpx2Tcx12_PC.py first in VSCode.
 2. Select gpx.studio output gpx file.
