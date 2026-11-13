@@ -12,6 +12,6 @@ Usage:
 3. Run Code_for_Validation3.py to check if the 2. output tcx file is correct.
 
 or Run:
-!pip install gpxpy haversine PyQt5
-!python yGpx2Tcx2.py Porksaute.gpx tmp.tcx
-!Code_for_Validation
+1. !pip install gpxpy haversine PyQt5
+2. !python yGpx2Tcx2.py Porksaute.gpx tmp.tcx
+3. !Code_for_Validation
